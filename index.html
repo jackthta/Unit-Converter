@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <meta name="viewport" content="width=device-width">
+        <title>Unit Converter</title>
+        <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet"> 
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <link href="style/style.css" type="text/css" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="side-nav">
+            <button class="close-btn">&larr;</button>
+            <ul class="nav-list">
+                <li><button class="length-btn">Length</button></li>
+                <li><button class="time-btn">Time</button></li>
+                <li><button class="weight-btn">Weight</button></li>
+            </ul>
+        </div>
+        <nav>
+            <div class="hamburger-box">
+                <div class="hamburger-inner"></div>
+                <div class="hamburger-inner"></div>
+                <div class="hamburger-inner"></div>
+            </div>
+        </nav>
+
+        <h1 class="title">Unit Converter</h1>
+
+        <main>
+            <div class="drop-down-container">
+                <div class="drop-down">
+                    <select>
+                        <option value="0">Select</option>
+                    </select>
+                    <img src="style/img/drop-down.svg" alt="Drop down arrow">
+                </div>
+
+                <p class="convert-arrow">&lrarr;</p>
+
+                <div class="drop-down">
+                    <select>
+                        <option value="0">Select</option>                  
+                    </select>
+                    <img src="style/img/drop-down.svg" alt="Drop down arrow">
+                </div>
+            </div>
+
+            <div class="converter">
+                <div class="converter-section">
+                    <h2 class="first-unit-header">Unit</h2>
+                    <input id="first-input" class="convert-input" type="number">
+                </div>
+                <p class="convert-arrow">&udarr;</p>
+                <div class="converter-section">
+                    <input id="second-input" class="convert-input" type="number">
+                    <h2 class="second-unit-header">Unit</h2>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <a href="https://github.com/jackthta"><img src="style/img/github-icon.svg" alt="GITHUB icon"></a>
+        </footer>
+
+        <!-- Conversion Functions-->
+        <script src="scripts/conversion.js"></script>
+
+        <!-- VanillaJS Implementation--> 
+        <!--
+        <script src="scripts/vanillaJS/vanillaJS-script.js"></script>
+        -->
+
+        <!-- jQuery Implementation-->
+        <script src="scripts/jQuery/jQ-script.js"></script>
+    </body>
+
+</html>
