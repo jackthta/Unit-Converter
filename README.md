@@ -3,15 +3,16 @@ This is a single page web application that converts basic units. It was built wi
 
 ## Screenshots
 
-<p display="flex" flex-direction="column">
-  <img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Phone%20View.png" alt="Phone View" width="25%" height="25%">
+<img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Phone%20View.png" alt="Phone View" width="25%" height="25%">
 
-  <img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Tablet%20View.png" alt="Tablet View" width="25%" height="25%">
 
-  <img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Desktop%20View.png" alt="Desktop View" width="25%" height="25%">
+<img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Tablet%20View.png" alt="Tablet View" width="25%" height="25%">
 
-  <img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Test.png" alt="Test display" width="25%" height="25%">
-</p>
+
+<img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Desktop%20View.png" alt="Desktop View" width="25%" height="25%">
+
+
+<img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Test.png" alt="Test display" width="25%" height="25%">
 
 ## Built With
 - HTML5
