@@ -3,10 +3,10 @@ This is a single page web application that converts basic units. It was built wi
 
 ## Screenshots
 
-![Phone View](https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Phone%20View.png =250x250)
-![Tablet View](https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Tablet%20View.png =250x250)
-![Desktop View](https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Desktop%20View.png =250x250)
-![Test](https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Test.png =250x250)
+![Phone View](https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Phone%20View.png) <!-- .element height="50%" width="50%" -->
+![Tablet View](https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Tablet%20View.png) <!-- .element height="50%" width="50%" -->
+![Desktop View](https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Desktop%20View.png) <!-- .element height="50%" width="50%" -->
+![Test](https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Test.png) <!-- .element height="50%" width="50%" -->
 
 ## Built With
 - HTML5
