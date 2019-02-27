@@ -5,16 +5,20 @@ This is a single page web application that converts basic units. It was built wi
 
 ### Phone View
 <img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Phone%20View.png" alt="Phone View" width="25%" height="25%">
-<br>
+
+
 ### Tablet View
 <img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Tablet%20View.png" alt="Tablet View" width="25%" height="25%">
-<br>
+
+
 ### Desktop View
 <img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Desktop%20View.png" alt="Desktop View" width="25%" height="25%">
-<br>
+
+
 ### Test display
 <img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Test.png" alt="Test display" width="25%" height="25%">
-<br>
+
+
 ## Built With
 - HTML5
 - CSS3
