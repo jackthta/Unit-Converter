@@ -3,7 +3,7 @@ This is a single page web application that converts basic units. It was built wi
 
 ## Screenshots
 
-<p align="center">
+<p display="flex" flex-direction="column">
   <img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Phone%20View.png" alt="Phone View" width="25%" height="25%">
 
   <img src="https://github.com/jackthta/Unit-Converter/blob/master/Screenshots/Tablet%20View.png" alt="Tablet View" width="25%" height="25%">
