@@ -7,5 +7,5 @@ This is a single page web application that converts basic units. It was built wi
 - HTML5
 - CSS3
 - Vanilla JavaScript
-- [SASS] (https://sass-lang.com/)
-- [jQuery] (https://jquery.com/)
+- [SASS](https://sass-lang.com/)
+- [jQuery](https://jquery.com/)
